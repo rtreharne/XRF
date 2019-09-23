@@ -1,7 +1,4 @@
 # XRF Data Processing
 
-This work is for Helen Vaughan.
+These notebooks have been prepared in collaboration with Dr. Helen Vaughan and her team in the Department of Physics at the Univeristy of Liverpool
 
-For more details read the .docx file.
-
-RT
